@@ -1,16 +1,20 @@
-p {
-    font-size: x-large;
-}
-h1{
-    color: brown;
-}
-.bunda {
-    color: blue;
-    font-size: x-large;
-    text-align: center;
-}
-#cu {
-    text-align: center;
+#titulo{
+    color:lightgray;
+    text-align: initial;
     background-color: black;
-    color: brown;
+}
+
+.image{
+   width: 300px;
+   height: 300px;
+}
+
+.capa{
+    background-color: lightgrey;
+    color:black;
+    font-size: x-large;
+}
+.fontes{
+    font-size:medium;
+    
 }
