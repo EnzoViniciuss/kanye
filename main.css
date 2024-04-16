@@ -1,7 +1,9 @@
-#titulo{
+.titulo{
     color:lightgray;
     text-align: initial;
     background-color: black;
+    display: flex;
+    justify-content: space-around;
 }
 
 .image{
@@ -16,5 +18,17 @@
 }
 .fontes{
     font-size:medium;
+    text-emphasis:inherit;
     
+}
+
+.flex-container{
+ display: flex;
+
+}
+
+.linha{
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
